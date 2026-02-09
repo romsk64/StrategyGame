@@ -1,5 +1,6 @@
 # Romsk Python Graphic Library v1.1
 # Распространяется по лицензии MIT
+# romsk64, 2025-2026
 # Русская документация по пути ../docs/ru-doc.md
 
 import pygame

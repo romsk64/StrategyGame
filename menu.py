@@ -1,6 +1,7 @@
 import pygame
+from libs import rompgl, romplog
 
 pygame.init()
 
-def menu():
+def menu(bg):
     pass
